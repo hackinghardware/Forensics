@@ -1,0 +1,3 @@
+Echa un vistazo a este archivo zip y la bandera permanecerá oculta.
+Pista: Puedes usar el comando ls
+- La bandera está contenida con ABCTF{}

@@ -1,0 +1,3 @@
+Necesitarás la fuerza bruta para resolver esto. Saber Python debería ayudar también. 
+Oh! ¡Y encriptación Base64 por supuesto! ¡Encuentra la bandera! 
+https://mega.nz/#!vf43RCyC!NNpuYjB3d-gevhsHXefwAAAmzk4tJHxUZr0GnrSDI_c Hash: e82a4b4a0386d5232d52337f36d2ab73
